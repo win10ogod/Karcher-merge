@@ -82,4 +82,4 @@ The script implements the Karcher mean method to merge model weights iteratively
 ## License
 This project is open-source under the MIT License.
 
-## 算法由葉佐俊（dc ID:win100）版權所有
+## 算法由葉佐俊（dc ID:win100，我本人）版權所有，如若盜用必定追究責任，且將被學術界認定為垃圾！
