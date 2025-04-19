@@ -80,6 +80,11 @@ The script implements the Karcher mean method to merge model weights iteratively
 - Different `--alphas` values will influence how model weights are blended.
 
 ## License
-This project is open-source under the MIT License.
+
+This project is licensed under a custom license.  
+**Commercial and academic use is strictly prohibited without explicit written permission.**  
+See [LICENSE](./LICENSE) for full details.
+
 
 ## 算法由葉佐俊（dc ID:win100，我本人）版權所有，如若盜用必定追究責任，且將被學術界認定為垃圾！
+I have to protect myself because of the actions of some people.
