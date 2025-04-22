@@ -1,38 +1,16 @@
 ## 原創性聲明(Statement of Originality)
-本人聲明，Karcher-merge包括idea及code均為本人（在o3-mini的輔助下）的個人智力成果。Karcher-merge的目的是更好的模型合併，其核心思想是將神經網絡權重視為黎曼流形上的點，利用Karcher平均（也稱為Fréchet平均或幾何平均）來計算它們的內在平均值，同時考慮權重張量的方向和幅度。該方法將每個權重張量分解為方向分量（位於單位球面上）和幅度分量，通過叠代算法計算方向的Karcher平均，並使用加權算術平均計算合並幅度。這種幾何方法能有效處理正交或近正交權重，保持權重張量的方向信息和適當縮放，最後可以達到超越model stock等傳統模型合併方法的效果。本人之所以再次公開此聲明是因為sthenno（qq號為：1829321520）企圖借合作之名竊取本人成果來達成與阿里巴巴（qwen團隊？）的論文合作，在騙取我的代碼和論文後，sthenno(qq號為：1829321520)將我在各種社交媒體上拉黑（詳情見附件1，2），導致本人無法正常聲索本人智力成果的所有權。
+本人聲明，Karcher-merge包括idea及code均為本人（在o3-mini的輔助下）的個人智力成果。
+
+Karcher-merge的目的是更好的模型合併，其核心思想是將神經網絡權重視為黎曼流形上的點，利用Karcher平均（也稱為Fréchet平均或幾何平均）來計算它們的內在平均值，同時考慮權重張量的方向和幅度。該方法將每個權重張量分解為方向分量（位於單位球面上）和幅度分量，通過叠代算法計算方向的Karcher平均，並使用加權算術平均計算合並幅度。這種幾何方法能有效處理正交或近正交權重，保持權重張量的方向信息和適當縮放，最後可以達到超越model stock等傳統模型合併方法的效果。本人之所以再次公開此聲明是因為sthenno（qq號為：1829321520）企圖借合作之名竊取本人成果來達成與阿里巴巴（qwen團隊？）的論文合作，在騙取我的代碼和論文後，sthenno(qq號為：1829321520)將我在各種社交媒體上拉黑（詳情見附件1，2），導致本人無法正常聲索本人智力成果的所有權。
+
+本人從某些途徑獲知，該論文已通過了阿里的內部流程。因此，本人迫不得已把已有代碼和論文主要思路公開，望周知。 
+
+希望阿里巴巴相關工作人員看見本文後可盡快聯系本人（郵箱，電話）。
 
 I hereby declare that Karcher-merge, including both the idea and code, is my personal intellectual achievement (with the assistance of o3-mini). The purpose of Karcher-merge is to achieve better model merging, with its core concept being the treatment of neural network weights as points on a Riemannian manifold, utilizing the Karcher mean (also known as Fréchet mean or geometric mean) to compute their intrinsic average while considering both the direction and magnitude of weight tensors. This method decomposes each weight tensor into a directional component (lying on the unit sphere) and a magnitude component, computing the Karcher mean of directions through an iterative algorithm and using weighted arithmetic mean for merged magnitude. This geometric approach effectively handles orthogonal or nearly orthogonal weights, preserves directional information in weight tensors with appropriate scaling, and ultimately achieves results that surpass traditional model averaging methods such as model stock. I am making this public declaration again because sthenno (QQ number: 1829321520) attempted to steal my work under the pretense of collaboration to establish a paper partnership with Alibaba (Qwen team?). After fraudulently obtaining my code and paper, sthenno (QQ number: 1829321520) blocked me on various social media platforms (see attachments 1 and 2 for details), preventing me from properly claiming ownership of my intellectual achievement.
-
-## ethical issues
-
-起初, 他和我說要合作寫論文, 據說阿里巴巴內部已經有安排了
-
- In the beginning, he told me we would work together on a paper, and that arrangements had already been made within Alibaba.
- 
-但兩天前, 他毫無徵兆的謾罵我, 並且聲稱幫我"保住"知識產權是他對我的"尊重", 
-
- But two days ago, he suddenly lashed out at me without any warning, claiming that helping me "protect" my intellectual property was his way of "respecting" me.
-
-可這算法是我本人提出與實現的, github我發的, 理論我提的,
-
- But this algorithm was proposed and implemented by me. I published it on GitHub, and the theoretical framework was also mine.
- 
- 他卻聲稱這是恩賜
- 
- Yet he claims it was a favor he granted me.
- 
-隨後封我qq、dc好友.
-
-Then he blocked me on QQ and Discord.
-
-把我踢出他的qq與dc群!
-
-He also kicked me out of his QQ and Discord groups!
-
-然後呢?講得好像是沒有你我的知識產權就不是我的?放你媽狗屁!
-
-And what now? Are you implying that without you, my intellectual property isn’t mine? That’s complete bullshit!
-
+I have learned through certain channels that this paper has passed through Alibaba's internal process. 
+Therefore, I am compelled to make the existing code and the main ideas of the paper public. 
+Please take note. I hope that relevant staff members at Alibaba who see this article can contact me as soon as possible (via email, phone).
 See the evidence for details(# 證據(Evidence))
 
 # Karcher Merge
