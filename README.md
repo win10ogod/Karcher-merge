@@ -128,6 +128,5 @@ But he panicked.
 [Sthenno github](https://github.com/neoheartbeats)
 ![Screenshot_20250422_010613_Discord](https://github.com/user-attachments/assets/bf027abe-6067-47e4-8e54-338d05e7b31e)
 ![Screenshot_20250420_105719_QQ](https://github.com/user-attachments/assets/6b3eae35-bd91-49eb-995d-39eb729eddd4)
-![Screenshot_20250420_105709_QQ](https://github.com/user-attachments/assets/420b0fe9-ff1c-44ab-aa83-39cd2168dff5)
 ![Screenshot_20250420_105704_QQ](https://github.com/user-attachments/assets/57c0c625-c7fc-4c9d-9f7c-78e61ff62250)
 ![Screenshot_20250422_010618_QQ](https://github.com/user-attachments/assets/9434f6ff-2164-4576-9b75-a94c4626c66a)
