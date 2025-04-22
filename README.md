@@ -1,19 +1,33 @@
 ## ethical issues
 
 起初, 他和我說要合作寫論文, 據說阿里巴巴內部已經有安排了
+
  In the beginning, he told me we would work together on a paper, and that arrangements had already been made within Alibaba.
+ 
 但兩天前, 他毫無徵兆的謾罵我, 並且聲稱幫我"保住"知識產權是他對我的"尊重", 
+
  But two days ago, he suddenly lashed out at me without any warning, claiming that helping me "protect" my intellectual property was his way of "respecting" me.
+
 可這算法是我本人提出與實現的, github我發的, 理論我提的,
+
  But this algorithm was proposed and implemented by me. I published it on GitHub, and the theoretical framework was also mine.
+ 
  他卻聲稱這是恩賜
+ 
  Yet he claims it was a favor he granted me.
+ 
 隨後封我qq、dc好友.
+
 Then he blocked me on QQ and Discord.
+
 把我踢出他的qq與dc群!
+
 He also kicked me out of his QQ and Discord groups!
+
 然後呢?講得好像是沒有你我的知識產權就不是我的?放你媽狗屁!
+
 And what now? Are you implying that without you, my intellectual property isn’t mine? That’s complete bullshit!
+
 See the evidence for details(# 證據(Evidence))
 
 # Karcher Merge
@@ -23,6 +37,7 @@ See the evidence for details(# 證據(Evidence))
 
 ## parper
 See the paper:
+
 [Karcher-paper](https://github.com/win10ogod/Karcher-merge/blob/main/Karcher-paper.pdf)
 
 ## Features
