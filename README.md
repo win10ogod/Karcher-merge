@@ -1,3 +1,13 @@
+## ethical issues
+說的就是你!說好的合作寫論文呢!
+[Sthenno](https://huggingface.co/sthenno)
+[Sthenno github](https://github.com/neoheartbeats)
+
+封我qq、dc好友.
+踢我出你的群!
+很棒, 你傷透了我的心!
+然後呢?講得好像是沒有你我的知識產權就不是我的?放你媽狗屁!
+
 # Karcher Merge
 
 ## Overview
