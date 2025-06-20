@@ -109,24 +109,3 @@ See [LICENSE](./LICENSE) for full details.
 
 ## 算法由葉佐俊（dc ID:win100，我本人）版權所有，如若盜用必定追究責任，且將被學術界認定為垃圾！
 I have to protect myself because of the actions of some people.
-
-# 證據(Evidence):
-
-說的就是你!說好的合作寫論文呢!
-
-I'm talking about you! What happened to our agreement to co-author a paper?
- 
-明明是Sthenno意圖竊盜成果,如今事情即將鬧大了,他卻慌了.
-It was obviously Sthenno's intention to steal the results.
-Now things are about to get serious,
-But he panicked.
-![螢幕擷取畫面 2025-04-22 215242](https://github.com/user-attachments/assets/16713644-095c-41de-a7cf-8156ae9d0872)
-
-## Sthenno related content
-
-[Sthenno](https://huggingface.co/sthenno)
-[Sthenno github](https://github.com/neoheartbeats)
-![Screenshot_20250422_010613_Discord](https://github.com/user-attachments/assets/bf027abe-6067-47e4-8e54-338d05e7b31e)
-![Screenshot_20250420_105719_QQ](https://github.com/user-attachments/assets/6b3eae35-bd91-49eb-995d-39eb729eddd4)
-![Screenshot_20250420_105704_QQ](https://github.com/user-attachments/assets/57c0c625-c7fc-4c9d-9f7c-78e61ff62250)
-![Screenshot_20250422_010618_QQ](https://github.com/user-attachments/assets/9434f6ff-2164-4576-9b75-a94c4626c66a)
