@@ -2,6 +2,8 @@
 本人聲明，Karcher-merge包括idea及code均為本人（在o3-mini的輔助下）的個人智力成果。
 
 Karcher-merge的目的是更好的模型合併，其核心思想是將神經網絡權重視為黎曼流形上的點，利用Karcher平均（也稱為Fréchet平均或幾何平均）來計算它們的內在平均值，同時考慮權重張量的方向和幅度。該方法將每個權重張量分解為方向分量（位於單位球面上）和幅度分量，通過叠代算法計算方向的Karcher平均，並使用加權算術平均計算合並幅度。這種幾何方法能有效處理正交或近正交權重，保持權重張量的方向信息和適當縮放，最後可以達到超越model stock等傳統模型合併方法的效果。
+To clarify:
+After verification and communication, I discovered that the previous incident was a misunderstanding. My apologies, my friend.
 
 # Karcher Merge
 
